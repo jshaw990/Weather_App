@@ -7,7 +7,7 @@ This project was created using the tutorial found here:
 
 ## Screenshots
 
-![screen1]()
+![screen1](https://github.com/jshaw990/Weather_App/blob/master/weatherApp.png?raw=true)
 
 ## Authors
 * [Raphael Ugwu](https://medium.com/@ugwuraphael)
